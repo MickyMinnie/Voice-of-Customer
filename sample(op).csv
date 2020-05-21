@@ -1,0 +1,121 @@
+,row_index,Review,final_sentiment,aspect_adj_string
+0,0,noting special  ok product ,pos,[]
+1,1,review  good,pos,['review good']
+6,4,damaged  unexpectedlly    one bottle is damaged,neg,['damaged']
+7,5,not entirely ayurvedic though       all these so called ayurvedic shampoos have all the chemicals in the book  then why call it ayurvedic  himalaya   patanjali and nyle all are one and the same dubious ,neg,"['entirely ayurvedic though', 'called ayurvedic shampoos', 'ayurvedic himalaya patanjali']"
+8,6,good for hair loss    it s good for hair loss ,pos,"['hair loss', 'good']"
+10,8,nyle  good,pos,['nyle good']
+11,9,good  good,pos,['good good']
+15,12,shampoo leaked  good   but did not pack it properly    shampoo leaked in the package  ,neg,"['shampoo leaked good', 'properly shampoo leaked', 'package']"
+17,14,don t use this product hair fall start after use  not like,neg,"['use', 'like']"
+22,17,for dry scalp   as of now i m utilizing it    it makes your hair smooth and delicate  my hair is sleek so it makes my hair useful for     days  so in the event that anybody have dry hair they can utilize it   as it can make your hair smooth and delicate for couple of days ,pos,"['dry scalp', 'hair useful', 'hair smooth']"
+25,20,,neu,0
+29,22,helps  reduces hairfall after     washes,pos,"['helps reduces hairfall', 'washes']"
+32,25,nice  nice,pos,['nice nice']
+35,27,okok  it just okok,neu,['okok']
+36,28,best of one  i used last den years i m completely setisfied,pos,"['completely setisfied', 'one', 'best']"
+38,30,nice  nice,pos,['nice nice']
+39,31,waste of money  after using this shampoo i got lot of dandruff  don t buy this product  hair fall also not reduced  ,neg,"['got lot', 'waste', 'using']"
+45,36,doesnot suit me  my hair fall started even more ,neu,['doesnot suit']
+46,37,awesome  we purchased since   shampoos with nyle  i suggestions it s good,pos,"['purchased since shampoos', 'suggestions', 'nyle']"
+47,38,good  good,pos,['good good']
+48,39,helpless  when i used this product   then i have more hair fall and i got dandruff in my hair  don t buy  this product,neg,"['got dandruff', 'hair fall', 'hair']"
+49,40,ok  ok,pos,['ok ok']
+51,42,not suitable for my hair  after using this my hair fall increased  utterly disappointed  we need much quantity to get rid of oil and dust from hair this leads to hair fall ,neg,"['need much quantity', 'get rid', 'hair fall']"
+52,43,whole bottle got leaked  whole bottle got leaked my money got wasted,neg,['money got wasted']
+56,45,keeps hair soft  keeps hair soft but yes hair fall has not decreased ,pos,"['yes hair fall', 'decreased']"
+57,46,nice  nice,pos,['nice nice']
+63,50,best for this price  worth every penny,pos,['best']
+65,52,nice  nice,pos,['nice nice']
+66,53,bad one  not good,neg,"['bad one', 'good']"
+72,57,good for hear  no cosmetic and necharal,pos,"['necharal', 'hear', 'good']"
+78,61,ideal for dry hair people   currently i m using it    it makes your hair smooth and soft  my hair is oily so it makes my hair good for     days  so if anyone have dry hair they can use it   as it has the ability to make your hair smooth and soft for couple of days ,pos,"['hair smooth', 'hair good', 'dry hair']"
+83,64,i ordered    ml got    ml  not at all value for money,neg,"['value', 'money']"
+84,65,super  osm products,pos,['super osm products']
+89,69,good  gud product,pos,['good gud product']
+90,70,ok  scent is nice,pos,"['ok scent', 'nice']"
+91,71,super  yeah it s really working on hair fall  ,pos,"['super yeah', 'really working', 'hair fall']"
+94,74,ok ok product       ,pos,['ok ok product']
+101,80,good  nice,pos,['good nice']
+104,82,love this product  i use this product form four years   l love nyle shampoo ,pos,"['use', 'product', 'love']"
+105,83,not that bad  it was ok ok,pos,"['ok ok', 'bad']"
+106,84,good  good,pos,['good good']
+107,85,three stars  product is good but packaging while delivery was pretty bad   ,pos,"['three stars product', 'pretty bad', 'packaging']"
+108,86,average  dont like much,neg,[]
+110,88,satisfied  satisfied,pos,['satisfied satisfied']
+111,89,ok  ok,pos,['ok ok']
+112,90,good  good,pos,['good good']
+114,92,parcel damage  damaged product,neg,[]
+115,93,packing  little bit of leakage was there   the opening can be covered tightly to avoid this,neg,"['packing little bit', 'covered tightly', 'opening']"
+116,94,good  good,pos,['good good']
+117,95,love this shampoo  this is a wondeefull shampoo  and its controll my hairfall      i love it,pos,"['wondeefull shampoo', 'shampoo', 'love']"
+119,97,ok ok  ok,pos,['ok ok ok']
+120,98,amazon customer  never buy,pos,[]
+126,101,superb  nice,pos,['superb nice']
+127,102,poor  poor,neg,['poor poor']
+128,103,four stars  good,pos,['four stars good']
+129,104,nice  best and good     i have been using from   month     hairfall reduce a bit     when compared other shampoo it s ok from me,pos,"['month hairfall reduce', 'nice best', 'using']"
+137,109,nice   excellent  excellent,pos,['nice excellent excellent']
+140,111,fine  fine,pos,['fine fine']
+141,112,liked it  nice,pos,"['nice', 'liked']"
+142,113,really good  must buy,pos,[]
+143,114,nice  its good  prefer to buy at the time of offers,pos,"['good prefer', 'time', 'offers']"
+146,116,cap of this bottle opened and lots of product waste in packet  product quality is ok but when they delivered this product  cap of this bottle opened and lots of product waste in packet ,neg,"['packet product quality', 'product waste', 'bottle opened']"
+149,119,good  good,pos,['good good']
+150,120,nice  good,pos,['nice good']
+151,121,one star  bottle was leaking   spoiled other items ,neu,"['one star bottle', 'leaking spoiled', 'items']"
+155,124,recommended  very gd shampoo   silky soft hairs  less hair fall  ,pos,['recommended']
+157,126,average product  i went through hairfall because of this shampoo,neu,"['average product', 'went', 'shampoo']"
+158,127,     waste,neg,['waste']
+159,128,my mother really like it as it really has reduced her hairfall  have been using for     months  my mother really like it as it really has reduced her hairfall  and she had seen difference in length too ,pos,"['mother really like', 'seen difference', 'really']"
+165,134,awesome  awesome,pos,['awesome awesome']
+167,136,good   average product ,pos,['good average product']
+168,137,product mishandled by logistics  the product received didn t meet the expectations and this was my last product purchase from now on ,neu,"['last product purchase', 'product received', 'product mishandled']"
+170,139,five stars  fantastic,pos,['five stars fantastic']
+180,145,ok  ok,pos,['ok ok']
+184,149,conditioning  good,pos,['conditioning good']
+185,150,mild  it s really mild shampoo for frizzy hair  leaves it manageable after wash ,neu,"['frizzy hair leaves', 'really mild shampoo', 'mild']"
+190,152,good  good,pos,['good good']
+191,153,five stars  its really super     i tried many but this given relief from hairfall,pos,"['tried many', 'really super', 'given relief']"
+192,154,    this product is not sulfate free  but also i like it very much bcoz seems it improved my hair texture  and also when am start using it my hair fall has reduce  happy and satisfied with this product    ,pos,"['much bcoz seems', 'sulfate free', 'start using']"
+194,156,good  good,pos,['good good']
+195,157,excellent  best  ,pos,['excellent best']
+198,160,love it must buy  superb,pos,"['must buy superb', 'love']"
+199,161,goodone  good one will buy one more for sure,pos,"['goodone good one', 'buy one', 'sure']"
+205,167,nice  god,pos,['nice god']
+206,168,worst shampoo i have ever tried  exactly opposite to the name,neg,"['worst shampoo', 'name']"
+213,174,nothing  nothing,neu,['nothing nothing']
+221,179,good  good,pos,['good good']
+222,180,duplicate product   duplicate product   hair fall problem increased after use ,neg,['use']
+224,182,good   ,pos,['good']
+226,184,good  very useful,pos,"['useful', 'good']"
+227,185,very good amazon  very good,pos,"['good amazon', 'good']"
+230,188,good  good,pos,['good good']
+236,192,made me happy again  this shampoo is very good for dry rough hair and second thing is this made my hairfall reduce in     wash only before dis i probably used head   shoulder antihairfall shampoo and after using head   shoulder my hairfall is going worst ever i have seen and even i got baldness problem but this nyle made me happy again with this i got my real shine in my hair and i feel healthier again thank you so much to the nyle company thanks alot,pos,"['using head shoulder', 'going worst ever', 'got baldness problem']"
+237,193,nice  good,pos,['nice good']
+238,194,four stars  good,pos,['four stars good']
+240,196,sailing on the nile  nyle is agood brand  cost effective and useful  like usuing this shampoo  would purchase nyle products again ,pos,"['useful like usuing', 'nile nyle', 'sailing']"
+241,197,good  good,pos,['good good']
+242,198,ok  good,pos,['ok good']
+243,199,r  good,pos,['r good']
+244,200,no improvement  not as expected  no improvement ,pos,"['improvement', 'expected']"
+246,202,five stars  unke shampoo is gud hair wash krte hi hair is    g ,neu,['g']
+247,203,mad  to good,neg,"['mad', 'good']"
+252,208,ok  ok,pos,['ok ok']
+253,209,worth to buy  worthful,pos,"['buy worthful', 'worth']"
+254,210,thanks  good,pos,['thanks good']
+256,212,good  like,pos,['good like']
+257,213,worth money  excellent one    ,pos,[]
+260,216,worth of money  gd product my hairfall almost gone  ,pos,"['money gd product', 'hairfall almost gone', 'worth']"
+261,217,its didn t work  don t use it   i got a damaged piece,neg,"['damaged piece', 'work', 'use']"
+262,218,shampoo bottle leaked inside the package    shampoo  bottle leaked inside the package  ,neg,['package']
+263,219,superb  great,pos,['superb great']
+267,223,too good  awesome for dry n frizzy hair ,pos,['good awesome']
+270,226,good  nice,pos,['good nice']
+271,227,good  no leakage,pos,"['leakage', 'good']"
+276,230,suggestion  a small suggestion from me please bottle cap tightly fix with plaster  i received my replacement order opened cap,pos,"['small suggestion', 'suggestion', 'received']"
+277,231,bakwaas  fake,neg,['bakwaas fake']
+288,234,five stars        product,neu,['five stars product']
+293,238,happy  no words to say  awsome product   so happy,pos,"['say awsome product', 'words', 'happy']"
+297,240,good   scent ,pos,['good scent']
+298,241,good    good  ,pos,['good good']
